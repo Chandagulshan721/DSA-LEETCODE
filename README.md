@@ -1,18 +1,16 @@
-# DSA & LeetCode Practice
+# Data Structures & Algorithms – LeetCode Practice
 
-This repository contains my daily practice of Data Structures and Algorithms
-using LeetCode problems.
+This repository contains my daily LeetCode practice for interview preparation
+(targeting product-based companies like Amazon and Google).
 
 ## Topics Covered
 - Arrays
 - Strings
-- Linked List
-- Stack & Queue
-- Trees
-- Dynamic Programming
+- Hashing
+- Two Pointers
+- Sliding Window
+- Greedy
+- Hard Problems
 
-Each solution includes:
-- Problem understanding
-- Approach
-- Time and space complexity
-
+## Goal
+Build strong problem-solving skills and maintain consistent GitHub activity.
