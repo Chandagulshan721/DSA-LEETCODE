@@ -1,12 +1,22 @@
-# LeetCode Progress
+# 📘 LeetCode Progress
 
-### Start Date
+### 🚀 Start Date
 07/01/26
 
-### Problems Solved
+---
+
+## ✅ Problems Solved
+
+### 📅 07/01/26
 - Two Sum (Arrays)
-- 
-- ### 09/01/26
+
+---
+
+### 📅 09/01/26
 - Valid Anagram (Strings)
 - Longest Substring Without Repeating Characters (Strings)
 
+---
+
+### 📅 14/01/26
+- Group Anagrams (Hashing)
