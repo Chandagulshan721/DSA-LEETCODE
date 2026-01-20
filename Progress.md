@@ -20,3 +20,8 @@
 
 ### 📅 14/01/26
 - Group Anagrams (Hashing)
+---
+
+### 📅 20/01/26
+- Container With Most Water (Two Pointers)
+- Longest Consecutive Sequence (Sliding Window)
