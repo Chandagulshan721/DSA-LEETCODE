@@ -25,3 +25,9 @@
 ### 📅 20/01/26
 - Container With Most Water (Two Pointers)
 - Longest Consecutive Sequence (Sliding Window)
+
+---
+
+### 📅 21/01/26
+- Gas Station (Greedy)
+- Trapping Rain Water (Hard)
